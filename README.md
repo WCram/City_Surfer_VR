@@ -3,7 +3,7 @@
 ![Alt Text](https://github.com/WCram/City_Surfer_VR/blob/master/City_Surfer.gif)
 
 Synopsis:\
-Created a prototype for a locamotion system that would propel the user indrectly using non friction (ice) panels or slides and let the player flying around a city. 
+Created a prototype for a locomotion system that would propel the user indirectly using non friction (ice) panels or slides and let the player flying around a city.
 
 Purpose:\
 Allow the player to navigate around a city as if on a self generated ice slide\
